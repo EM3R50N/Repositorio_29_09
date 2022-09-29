@@ -15,8 +15,8 @@ int main(){
 void llenar(){
 	cout<<"Tamaño: ";cin>>n;
 	for(int i=0; i<n; i++){
-		cout<<"\nNumero: ";cin>>X[i];
-		cout<<"Numero: ";cin>>M[i];
+		cout<<"\nNumero 1: ";cin>>X[i];
+		cout<<"Numero 2: ";cin>>M[i];
 	}
 }
 
